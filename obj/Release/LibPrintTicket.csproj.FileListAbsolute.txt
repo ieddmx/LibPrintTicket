@@ -1,0 +1,10 @@
+C:\Users\i-edu\Documents\Visual Studio 2015\Projects\LibPrintTicket\bin\Release\LibPrintTicket.dll
+C:\Users\i-edu\Documents\Visual Studio 2015\Projects\LibPrintTicket\bin\Release\LibPrintTicket.pdb
+C:\Users\i-edu\Documents\Visual Studio 2015\Projects\LibPrintTicket\obj\Release\LibPrintTicket.csprojResolveAssemblyReference.cache
+C:\Users\i-edu\Documents\Visual Studio 2015\Projects\LibPrintTicket\obj\Release\LibPrintTicket.dll
+C:\Users\i-edu\Documents\Visual Studio 2015\Projects\LibPrintTicket\obj\Release\LibPrintTicket.pdb
+C:\Users\Dev1\Documents\Visual Studio 2017\Projects\LibPrintTicket\bin\Release\LibPrintTicket.dll
+C:\Users\Dev1\Documents\Visual Studio 2017\Projects\LibPrintTicket\bin\Release\LibPrintTicket.pdb
+C:\Users\Dev1\Documents\Visual Studio 2017\Projects\LibPrintTicket\obj\Release\LibPrintTicket.csprojResolveAssemblyReference.cache
+C:\Users\Dev1\Documents\Visual Studio 2017\Projects\LibPrintTicket\obj\Release\LibPrintTicket.dll
+C:\Users\Dev1\Documents\Visual Studio 2017\Projects\LibPrintTicket\obj\Release\LibPrintTicket.pdb
